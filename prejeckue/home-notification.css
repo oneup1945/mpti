@@ -1,0 +1,448 @@
+.header-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 360px;
+  height: 40px;
+}
+.search-bar-item,
+.search-bar1 {
+  position: absolute;
+  width: 902px;
+  height: 31px;
+}
+.search-bar-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-lightgray-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.search-bar1 {
+  top: 9px;
+  left: -292px;
+}
+.header1,
+.search-icon1 {
+  position: absolute;
+  top: 0;
+  left: 460px;
+  width: 360px;
+  height: 37px;
+}
+.search-icon1 {
+  top: 12px;
+  left: 186px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.etc-icon1 {
+  position: absolute;
+  top: 20px;
+  left: 1173px;
+  width: 18px;
+  height: 6px;
+}
+.card-3-inner,
+.rekomendasi-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 556px;
+  height: 344px;
+}
+.card-3-inner {
+  border-radius: var(--br-6xs);
+  background-color: var(--color-tan);
+  width: 166.8px;
+  height: 234.8px;
+}
+.kulkas-mini-hisense1 {
+  top: 169.9px;
+  display: inline-block;
+  width: 156px;
+  height: 44.8px;
+}
+.image-9-icon1,
+.kulkas-mini-hisense1,
+.rp-8000001 {
+  position: absolute;
+  left: 4.6px;
+}
+.rp-8000001 {
+  top: 214.7px;
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+  width: 125.2px;
+  height: 13px;
+}
+.image-9-icon1 {
+  top: 6.2px;
+  width: 156px;
+  height: 157.5px;
+  object-fit: cover;
+}
+.card-32 {
+  position: absolute;
+  top: 55.6px;
+  left: 367.6px;
+  width: 166.8px;
+  height: 234.8px;
+}
+.rp-25000001,
+.smartphone-samsung-a341 {
+  position: absolute;
+  top: 169.2px;
+  left: 4.6px;
+  display: inline-block;
+  width: 184.2px;
+  height: 44.9px;
+}
+.rp-25000001 {
+  top: 214px;
+  font-size: var(--font-size-3xs);
+  width: 125.2px;
+  height: 13px;
+}
+.image-7-icon1 {
+  position: absolute;
+  top: 6.2px;
+  left: 4.6px;
+  width: 157.1px;
+  height: 157.1px;
+  object-fit: cover;
+}
+.card-22 {
+  position: absolute;
+  top: 55.6px;
+  left: 23.2px;
+  width: 188.9px;
+  height: 234.8px;
+}
+.lemari-baju-minimalis1,
+.rp-12000001 {
+  position: absolute;
+  top: 169.2px;
+  left: 4.7px;
+  display: inline-block;
+  width: 183.1px;
+  height: 44.9px;
+}
+.rp-12000001 {
+  top: 214px;
+  font-size: var(--font-size-3xs);
+  width: 125.2px;
+  height: 13px;
+}
+.image-8-icon1 {
+  position: absolute;
+  top: 6.2px;
+  left: 4.7px;
+  width: 157.1px;
+  height: 157.1px;
+  object-fit: cover;
+}
+.card-12 {
+  position: absolute;
+  top: 55.6px;
+  left: 196.1px;
+  width: 187.7px;
+  height: 234.8px;
+}
+.rekomendasi-untukmu1 {
+  position: absolute;
+  top: 1.5px;
+  left: 20.1px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 384.6px;
+  height: 41.7px;
+}
+.rekomendasi1 {
+  position: absolute;
+  top: 488px;
+  left: 362px;
+  width: 556px;
+  height: 344px;
+  font-size: var(--font-size-xs);
+}
+.kategori-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 556px;
+  height: 438.6px;
+}
+.image-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs) var(--br-5xs) 0 0;
+  width: 139.3px;
+  height: 115.6px;
+  object-fit: cover;
+}
+.furniture1 {
+  position: absolute;
+  top: 129.5px;
+  left: 34.8px;
+  display: inline-block;
+  width: 71.1px;
+  height: 20.9px;
+}
+.card-13,
+.gadget1 {
+  position: absolute;
+  top: 64.9px;
+  left: 51px;
+  width: 139.3px;
+  height: 170px;
+}
+.gadget1 {
+  top: 129.5px;
+  left: 40.4px;
+  display: inline-block;
+  width: 58.5px;
+  height: 20.9px;
+}
+.card-23,
+.elektronik1 {
+  position: absolute;
+  top: 64.9px;
+  left: 214px;
+  width: 139.3px;
+  height: 170px;
+}
+.elektronik1 {
+  top: 129.5px;
+  left: 30.7px;
+  display: inline-block;
+  width: 78px;
+  height: 20.9px;
+}
+.card-33,
+.card-4-item {
+  position: absolute;
+  top: 64.9px;
+  left: 367.2px;
+  width: 139.3px;
+  height: 170px;
+}
+.card-4-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-tan);
+}
+.rumah-tangga1 {
+  position: absolute;
+  top: 129.6px;
+  left: 12.5px;
+  display: inline-block;
+  width: 114.3px;
+  height: 20.9px;
+}
+.image-4-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs) var(--br-5xs) 0 0;
+  width: 139.3px;
+  height: 117px;
+  object-fit: cover;
+}
+.card-41,
+.otomotif1 {
+  position: absolute;
+  top: 247.4px;
+  left: 51px;
+  width: 139.3px;
+  height: 170px;
+}
+.otomotif1 {
+  top: 129.6px;
+  left: 40.4px;
+  display: inline-block;
+  width: 69.7px;
+  height: 20.9px;
+}
+.card-51,
+.hobi1 {
+  position: absolute;
+  top: 247.4px;
+  left: 214px;
+  width: 139.3px;
+  height: 170px;
+}
+.hobi1 {
+  top: 129.6px;
+  left: 50.2px;
+  display: inline-block;
+  width: 37.6px;
+  height: 20.9px;
+}
+.card-61,
+.kategori3 {
+  position: absolute;
+  top: 247.4px;
+  left: 367.2px;
+  width: 139.3px;
+  height: 170px;
+}
+.kategori3 {
+  top: 6.2px;
+  left: 20.1px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 142.1px;
+  height: 41.7px;
+}
+.kategori2 {
+  position: absolute;
+  top: 49px;
+  left: 362px;
+  width: 556px;
+  height: 438.6px;
+}
+.keranjang-icon1,
+.notification-icon1 {
+  position: absolute;
+  top: 13px;
+  left: 1093px;
+  width: 21px;
+  height: 21px;
+  object-fit: cover;
+}
+.keranjang-icon1 {
+  top: 16px;
+  left: 1133px;
+  height: 16px;
+}
+.homenotification-child {
+  position: absolute;
+  top: 63px;
+  left: 838px;
+  border-radius: var(--br-base);
+  background-color: var(--color-gainsboro);
+  width: 382px;
+  height: 292px;
+}
+.homenotification-item {
+  position: absolute;
+  top: 37px;
+  left: 1080px;
+  width: 48px;
+  height: 35px;
+}
+.homenotification-inner {
+  position: absolute;
+  top: 68px;
+  left: 845px;
+  border-radius: var(--br-base) var(--br-base) 0 0;
+  background-color: var(--color-white);
+  width: 368px;
+  height: 70px;
+}
+.notifikasi {
+  position: absolute;
+  top: 92px;
+  left: 859px;
+  font-size: var(--font-size-11xl);
+}
+.homenotification-child1 {
+  position: absolute;
+  top: 141px;
+  left: 845px;
+  background-color: var(--color-white);
+  width: 368px;
+  height: 71px;
+}
+.belum-dibayar,
+.dikemas,
+.dikirim {
+  position: absolute;
+  top: 196px;
+  left: 884px;
+  display: inline-block;
+  width: 69px;
+}
+.dikemas,
+.dikirim {
+  left: 1008px;
+  width: 41px;
+}
+.dikirim {
+  left: 1121px;
+  width: 34px;
+}
+.open-parcel-icon,
+.truck-icon,
+.wallet-icon {
+  position: absolute;
+  top: 154px;
+  left: 902px;
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+}
+.open-parcel-icon,
+.truck-icon {
+  top: 157px;
+  left: 1016px;
+  width: 31px;
+  height: 31px;
+}
+.truck-icon {
+  top: 161px;
+  left: 1125px;
+  width: 30px;
+  height: 23px;
+}
+.homenotification-child2 {
+  position: absolute;
+  top: 215px;
+  left: 845px;
+  background-color: var(--color-white);
+  width: 368px;
+  height: 71px;
+}
+.image-11-icon {
+  position: absolute;
+  top: 223px;
+  left: 851px;
+  width: 55px;
+  height: 54px;
+  object-fit: cover;
+}
+.pesanan-akan-diantar,
+.siap-siap {
+  position: absolute;
+  left: 916px;
+  display: inline-block;
+}
+.pesanan-akan-diantar {
+  top: 223px;
+  font-size: var(--font-size-sm);
+  width: 194px;
+}
+.siap-siap {
+  top: 238px;
+  color: #676464;
+  width: 282px;
+}
+.homenotification {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 396px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

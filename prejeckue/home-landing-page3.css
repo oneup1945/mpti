@@ -1,0 +1,212 @@
+.header-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 360px;
+  height: 40px;
+}
+.search-bar-inner,
+.search-bar2 {
+  position: absolute;
+  width: 890px;
+  height: 31px;
+}
+.search-bar-inner {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-lightgray-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.search-bar2 {
+  top: 9px;
+  left: -292px;
+}
+.header2,
+.search-icon2 {
+  position: absolute;
+  top: 0;
+  left: 460px;
+  width: 360px;
+  height: 37px;
+}
+.search-icon2 {
+  top: 12px;
+  left: 186px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.image-9-icon3 {
+  position: absolute;
+  top: 84px;
+  left: 177px;
+  border-radius: var(--br-base);
+  width: 263px;
+  height: 249px;
+  object-fit: cover;
+}
+.smartphone-samsung-a343 {
+  top: 84px;
+  font-size: 35px;
+  display: inline-block;
+  width: 462px;
+}
+.dekripsi,
+.rp-25000003,
+.smartphone-samsung-a343 {
+  position: absolute;
+  left: 460px;
+}
+.rp-25000003 {
+  top: 141px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 244px;
+}
+.dekripsi {
+  top: 229px;
+  font-size: var(--font-size-lg);
+  text-align: center;
+}
+.spesifikasi {
+  margin: 0;
+}
+.spesifikasi-container {
+  position: absolute;
+  top: 259px;
+  left: 484px;
+  font-size: var(--font-size-mini);
+}
+.checkout-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 268px;
+  height: 185px;
+}
+.atur-pembelian {
+  position: absolute;
+  top: 4.2px;
+  left: 9px;
+  display: inline-block;
+  width: 129px;
+  height: 30.6px;
+}
+.checkout1 {
+  position: absolute;
+  top: 84px;
+  left: 942px;
+  width: 268px;
+  height: 185px;
+  font-size: var(--font-size-lg);
+}
+.total-rp1 {
+  position: absolute;
+  top: 135px;
+  left: 947px;
+  font-size: var(--font-size-mini);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 259px;
+}
+.button-keranjang-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-dimgray-100);
+  width: 256px;
+  height: 31px;
+}
+.beli-langsung {
+  position: absolute;
+  top: 10px;
+  left: 6.9px;
+  display: inline-block;
+  width: 244.9px;
+  height: 17.1px;
+}
+.button-keranjang1,
+.button-keranjang2,
+.chat-penjual,
+.wishlist {
+  position: absolute;
+  top: 157px;
+  left: 947px;
+  width: 256px;
+  height: 31px;
+  text-align: center;
+  color: var(--color-gray-200);
+}
+.button-keranjang2,
+.chat-penjual,
+.wishlist {
+  top: 192px;
+}
+.chat-penjual,
+.wishlist {
+  top: 241px;
+  left: 999px;
+  display: inline-block;
+  width: 57px;
+  height: 11px;
+}
+.wishlist {
+  left: 1125px;
+  width: 37px;
+}
+.chat-message-icon {
+  position: absolute;
+  top: 239px;
+  left: 984px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.heart-straight-icon {
+  position: absolute;
+  top: 237px;
+  left: 1105px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.etc-icon2 {
+  position: absolute;
+  top: 21px;
+  left: 1150px;
+  width: 18px;
+  height: 6px;
+}
+.keranjang-icon2,
+.notification-icon2 {
+  position: absolute;
+  top: 14px;
+  left: 1070px;
+  width: 21px;
+  height: 21px;
+  object-fit: cover;
+}
+.keranjang-icon2 {
+  top: 17px;
+  left: 1110px;
+  height: 16px;
+}
+.homelanding-page4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 396px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

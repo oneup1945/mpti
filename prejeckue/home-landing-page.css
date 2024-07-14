@@ -1,0 +1,119 @@
+
+.layar-dalam{
+  width: 1000px;
+  min-height: max-content;
+}
+.homelanding-page-child,
+.homelanding-page-item {
+  position: absolute;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.homelanding-page-child {
+  top: 227px;
+  left: 395px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-tan);
+  width: 490px;
+  height: 410px;
+}
+.homelanding-page-item {
+  top: 162px;
+  left: 572px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 136px;
+  height: 130px;
+}
+.account-user-icon {
+  position: absolute;
+  top: 182px;
+  left: 596px;
+  width: 88px;
+  height: 89px;
+  overflow: hidden;
+}
+.login {
+  position: absolute;
+  top: 35%;
+  left: 596px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 122px;
+  height: 84px;
+}
+.homelanding-page-inner {
+  position: absolute;
+  top: 355px;
+  left: 434px;
+  border-radius: var(--br-3xs);
+  width: 412px;
+  height: 138px;
+}
+.username,
+.password {
+  position: absolute;
+  color: var(--color-lightgray-100);
+  display: inline-block;
+}
+
+.username {
+  top: 368px;
+  left: 449px;
+  width: 86px;
+  height: 32px;
+}
+
+.password {
+  top: 448px;
+  left: 449px;
+  width: 80px;
+  height: 32px;
+}
+
+.rectangle-div {
+  position: absolute;
+  top: 532px;
+  left: 492px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslategray);
+  width: 296px;
+  height: 64px;
+}
+.belum-punya-akun,
+.login1 {
+  position: absolute;
+  display: inline-block;
+}
+.login1 {
+  top: 544px;
+  left: 608px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  width: 92px;
+  height: 52px;
+  background: #000;
+}
+.belum-punya-akun {
+  top: 637px;
+  left: 407px;
+  width: 165px;
+  height: 32px;
+}
+.homelanding-page1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-kdam-thmor);
+}
+
+@media screen and (max-width: 991.98px){
+  .layar-dalam{
+    width: 90%;
+  }
+}

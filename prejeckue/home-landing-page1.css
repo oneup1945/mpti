@@ -1,0 +1,124 @@
+.login2 {
+  position: absolute;
+  top: 539px;
+  left: 596px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  display: inline-block;
+  width: 88px;
+  height: 50px;
+}
+.ellipse-div,
+.homelanding-page-child1 {
+  position: absolute;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.homelanding-page-child1 {
+  top: 156px;
+  left: 407px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-tan);
+  width: 466px;
+  height: 549px;
+}
+.ellipse-div {
+  top: 94px;
+  left: 576px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 128px;
+  height: 124px;
+}
+.account-user-icon1 {
+  position: absolute;
+  top: 113px;
+  left: 598px;
+  width: 84px;
+  height: 84px;
+  overflow: hidden;
+}
+.sign-in {
+  position: absolute;
+  top: 215px;
+  left: 600px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 141px;
+  height: 81px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 278px;
+  left: 444px;
+  border-radius: var(--br-3xs);
+  width: 392px;
+  height: 271px;
+}
+.confirm-password,
+.email,
+.password1,
+.username1 {
+  position: absolute;
+  top: 290px;
+  left: 458px;
+  display: inline-block;
+  width: 82px;
+  height: 30px;
+}
+.confirm-password,
+.email,
+.password1 {
+  top: 438px;
+  width: 76px;
+}
+.confirm-password,
+.email {
+  top: 365px;
+  width: 43px;
+}
+.confirm-password {
+  top: 507px;
+  width: 144px;
+}
+.homelanding-page-child2 {
+  position: absolute;
+  top: 608px;
+  left: 500px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslategray);
+  width: 280px;
+  height: 61px;
+}
+.sign-in1,
+.sudah-punya-akun {
+  position: absolute;
+  display: inline-block;
+}
+.sign-in1 {
+  top: 614px;
+  left: 588px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  width: 104px;
+  height: 49px;
+}
+.sudah-punya-akun {
+  top: 708px;
+  left: 414px;
+  color: var(--color-black);
+  width: 156px;
+  height: 30px;
+}
+.homelanding-page2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-lightgray-100);
+  font-family: var(--font-kdam-thmor);
+}

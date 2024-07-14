@@ -1,0 +1,423 @@
+.header-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 360px;
+  height: 40px;
+}
+.search-bar,
+.search-bar-child {
+  position: absolute;
+  width: 890px;
+  height: 31px;
+
+}
+.search-bar-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-lightgray-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.search-bar1{
+  position:relative;
+  flex-grow: inherit;
+  top: 15%;
+  width: 90%;
+  text-align: left;
+  margin: auto;
+}
+.search-bar {
+  top: 9px;
+  left: -292px;
+}
+.header,
+.search-icon {
+  position: absolute;
+  top: 0;
+  left: 460px;
+  width: 360px;
+  height: 37px;
+}
+.search-icon {
+  top: 12px;
+  left: 186px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.card-3-child,
+.rekomendasi-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 556px;
+  height: 344px;
+}
+.card-3-child {
+  border-radius: var(--br-6xs);
+  background-color: var(--color-tan);
+  width: 166.8px;
+  height: 234.8px;
+}
+.kulkas-mini-hisense {
+  top: 169.9px;
+  display: inline-block;
+  width: 156px;
+  height: 44.8px;
+}
+
+.image-9-icon,
+.kulkas-mini-hisense,
+.kulkas-mini-hisense-1,
+.rp-800000 {
+  position: absolute;
+  left: 4.6px;
+}
+.kulkas-mini-hisense-1{
+  top: 180px;
+  font-size: var(--font-inter);
+  display: inline-block;
+  width: 125.2px;
+  height: 13px;
+}
+.rp-800000 {
+  top: 200px;
+  font-size: var(--font-inter);
+  display: inline-block;
+  width: 125.2px;
+  height: 50px;
+}
+.image-9-icon {
+  top: 6.2px;
+  width: 156px;
+  height: 157.5px;
+  object-fit: cover;
+}
+.card-3 {
+  position: absolute;
+  top: 55.6px;
+  left: 367.6px;
+  width: 166.8px;
+  height: 234.8px;
+}
+.smartphone-samsung-a34 {
+  top: 169.2px;
+  display: inline-block;
+  width: 184.2px;
+  height: 44.9px;
+}
+.image-7-icon,
+.rp-2500000,
+.smartphone-samsung-a34-1,
+.smartphone-samsung-a34 {
+  position: absolute;
+  left: 4.6px;
+}
+.smartphone-samsung-a34-1{
+  top: 180px;
+  font-size: var(--font-inter);
+  display: inline-block;
+  width: 125.2px;
+  height: 13px;
+}
+.rp-2500000 {
+  top: 200px;
+  font-size: var(--font-inter);
+  display: inline-block;
+  width: 125.2px;
+  height: 13px;
+}
+.image-7-icon {
+  top: 6.2px;
+  width: 157.1px;
+  height: 157.1px;
+  object-fit: cover;
+}
+.card-2 {
+  position: absolute;
+  top: 55.6px;
+  left: 23.2px;
+  width: 188.9px;
+  height: 234.8px;
+}
+.lemari-baju-minimalis {
+  top: 169.2px;
+  display: inline-block;
+  width: 183.1px;
+  height: 44.9px;
+}
+.image-8-icon,
+.lemari-baju-minimalis,
+.lemari-baju-minimalis-1,
+.rp-1200000 {
+  position: absolute;
+  left: 4.7px;
+}
+.lemari-baju-minimalis-1{
+  top: 180px;
+  font-size: var(--font-inter);
+  display: inline-block;
+  width: 125.2px;
+  height: 13px;
+}
+.rp-1200000 {
+  top: 200px;
+  font-size: var(--font-inter);
+  display: inline-block;
+  width: 125.2px;
+  height: 13px;
+}
+.image-8-icon {
+  top: 6.2px;
+  width: 157.1px;
+  height: 157.1px;
+  object-fit: cover;
+}
+.card-1 {
+  position: absolute;
+  top: 55.6px;
+  left: 196.1px;
+  width: 187.7px;
+  height: 234.8px;
+}
+.rekomendasi-untukmu {
+  position: absolute;
+  top: 1.5px;
+  left: 20.1px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 384.6px;
+  height: 41.7px;
+}
+.kategori-child,
+.rekomendasi {
+  position: absolute;
+  top: 488px;
+  left: 362px;
+  width: 556px;
+  height: 344px;
+}
+.kategori-child {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  height: 438.6px;
+}
+.card-1-item,
+.image-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 139.3px;
+}
+.card-1-item {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-tan);
+  height: 170px;
+}
+.image-1-icon {
+  border-radius: var(--br-5xs) var(--br-5xs) 0 0;
+  height: 115.6px;
+  object-fit: cover;
+}
+.furniture {
+  position: absolute;
+  top: 129.5px;
+  left: 40.4px;
+  display: inline-block;
+  width: 80px;
+  height: 20.9px;
+}
+.card-11,
+.gadget {
+  position: absolute;
+  top: 64.9px;
+  left: 60px;
+  width: 139.3px;
+  height: 170px;
+}
+.gadget {
+  top: 129.5px;
+  left: 40.4px;
+  display: inline-block;
+  width: 58.5px;
+  height: 20.9px;
+}
+.card-21,
+.elektronik {
+  position: absolute;
+  top: 64.9px;
+  left: 214px;
+  width: 139.3px;
+  height: 170px;
+}
+.elektronik {
+  top: 129.5px;
+  left: 30.7px;
+  display: inline-block;
+  width: 78px;
+  height: 20.9px;
+}
+.card-31,
+.rumah-tangga {
+  position: absolute;
+  top: 64.9px;
+  left: 367.2px;
+  width: 139.3px;
+  height: 170px;
+}
+.rumah-tangga {
+  top: 129.5px;
+  left: 20px;
+  display: inline-block;
+  width: 114.3px;
+  height: 20.9px;
+}
+.image-4-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs) var(--br-5xs) 0 0;
+  width: 139.3px;
+  height: 117px;
+  object-fit: cover;
+}
+.card-4,
+.otomotif {
+  position: absolute;
+  top: 247.4px;
+  left: 60px;
+  width: 139.3px;
+  height: 170px;
+}
+.otomotif {
+  top: 129.6px;
+  left: 40.4px;
+  display: inline-block;
+  width: 69.7px;
+  height: 20.9px;
+}
+.card-5,
+.hobi {
+  position: absolute;
+  top: 247.4px;
+  left: 214px;
+  width: 139.3px;
+  height: 170px;
+}
+.hobi {
+  top: 129.6px;
+  left: 50.2px;
+  display: inline-block;
+  width: 37.6px;
+  height: 20.9px;
+}
+.card-6,
+.kategori1 {
+  position: absolute;
+  top: 247.4px;
+  left: 367.2px;
+  width: 139.3px;
+  height: 170px;
+}
+.kategori1 {
+  top: 6.2px;
+  left: 20.1px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 142.1px;
+  height: 41.7px;
+}
+.kategori {
+  position: absolute;
+  top: 49px;
+  left: 362px;
+  width: 556px;
+  height: 438.6px;
+  font-size: var(--font-size-3xs);
+}
+.etc-icon {
+  position: absolute;
+  top: 21px;
+  left: 1157px;
+  width: 18px;
+  height: 6px;
+}
+.keranjang-icon,
+.notification-icon {
+  position: absolute;
+  top: 14px;
+  left: 1077px;
+  width: 21px;
+  height: 21px;
+  object-fit: cover;
+}
+.keranjang-icon {
+  top: 17px;
+  left: 1117px;
+  height: 16px;
+}
+.homelanding-page {
+  width: 1000pt;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.bottom-navigation {
+  flex: 1;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-dimgray-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 7px 32px 0 var(--padding-36xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  z-index: 2;
+}
+.heart-straight-icon1,
+.home-door-icon1 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  margin: 0 !important;
+  top: 7px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.heart-straight-icon1 {
+  left: 67px;
+}
+.home-door-icon1 {
+  right: 165px;
+}
+.homenotification,
+.navigation {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.navigation {
+  align-self: stretch;
+  flex-direction: row;
+  position: sticky;
+  top: 0;
+  z-index: 99;
+  max-width: 100%;
+}

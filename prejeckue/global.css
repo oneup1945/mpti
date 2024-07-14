@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-kdam-thmor: "Kdam Thmor";
+
+  /* font sizes */
+  --font-size-3xl: 22px;
+  --font-size-3xs: 10px;
+  --font-size-xs: 12px;
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+  --font-size-sm: 14px;
+  --font-size-11xl: 30px;
+  --font-size-mini: 15px;
+  --font-size-lg: 18px;
+  --font-size-4xs: 9px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-tan: #a79277;
+  --color-lightgray-100: #d4d4d4;
+  --color-lightgray-200: #d7cdc1;
+  --color-darkslategray: #3e3428;
+  --color-dimgray-100: #7c6950;
+  --color-gainsboro: #d9d9d9;
+  --color-gray-100: #807e7e;
+  --color-gray-200: #00031a;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-6xs: 7px;
+  --br-9xs: 4px;
+  --br-xl: 20px;
+  --br-3xs: 10px;
+  --br-base: 16px;
+}

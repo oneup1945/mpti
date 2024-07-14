@@ -1,0 +1,309 @@
+.homenotification-child {
+    align-self: stretch;
+    height: 40px;
+    position: relative;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: var(--color-dimgray-100);
+    display: none;
+  }
+  .home,
+  .keranjang,
+  .wishlist {
+    position: relative;
+    display: none;
+    min-width: 44px;
+  }
+  .home,
+  .keranjang {
+    min-width: 34px;
+  }
+  .keranjang {
+    min-width: 57px;
+  }
+  .shopping-cart-icon {
+    width: 21px;
+    height: 21px;
+    position: relative;
+    object-fit: contain;
+    display: none;
+  }
+  .notifications-child {
+    height: 111px;
+    width: 360px;
+    position: relative;
+    background-color: var(--color-white);
+    display: none;
+    max-width: 100%;
+  }
+  .notifikasi {
+    text-decoration: none;
+    position: relative;
+    color: inherit;
+    z-index: 1;
+  }
+  .frame-child,
+  .notifications {
+    background-color: var(--color-white);
+    max-width: 100%;
+  }
+  .notifications {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 47px 18px 28px;
+    box-sizing: border-box;
+  }
+  .frame-child {
+    height: 71px;
+    width: 360px;
+    position: relative;
+    display: none;
+  }
+  .belum-dibayar,
+  .dikemas {
+    position: relative;
+    display: inline-block;
+    min-width: 68px;
+    z-index: 1;
+  }
+  .dikemas {
+    min-width: 41px;
+  }
+  .packaging {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-mid) 0 0;
+  }
+  .dikirim {
+    position: relative;
+    display: inline-block;
+    min-width: 33px;
+    z-index: 1;
+  }
+  .frame-item,
+  .rectangle-parent {
+    background-color: var(--color-white);
+    max-width: 100%;
+  }
+  .rectangle-parent {
+    margin: 0;
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: var(--padding-36xl) 57px 4px 38px;
+    box-sizing: border-box;
+    gap: var(--gap-xl);
+    text-align: left;
+    font-size: var(--font-size-3xs);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  .frame-item {
+    height: 71px;
+    width: 360px;
+    position: relative;
+    display: none;
+  }
+  .image-10-icon {
+    height: 54px;
+    width: 54px;
+    position: relative;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .pesanan-akan-diantar {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .pesanan-akan-diantar-hari-ini-wrapper {
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 20px 0 0;
+    box-sizing: border-box;
+  }
+  .siap-siap {
+    position: relative;
+    font-size: var(--font-size-3xs);
+    color: #676464;
+    flex-shrink: 0;
+    z-index: 2;
+  }
+  .frame-parent,
+  .order-status,
+  .rectangle-group {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frame-parent {
+    flex-direction: column;
+  }
+  .order-status,
+  .rectangle-group {
+    align-self: stretch;
+    max-width: 100%;
+  }
+  .rectangle-group {
+    background-color: var(--color-white);
+    flex-direction: row;
+    padding: 8px 6px 9px;
+    box-sizing: border-box;
+    gap: 9px;
+    font-size: 14px;
+  }
+  .order-status {
+    flex-direction: column;
+    gap: 3px;
+    text-align: left;
+    font-size: 30px;
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  .heart-straight-icon,
+  .home-door-icon {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    margin: 0 !important;
+    top: 7px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .heart-straight-icon {
+    left: 67px;
+  }
+  .home-door-icon {
+    right: 165px;
+  }
+  .bottom-navigation-child {
+    height: 40px;
+    width: 360px;
+    position: relative;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: var(--color-dimgray-100);
+    display: none;
+    max-width: 100%;
+  }
+  .wishlist1 {
+    position: relative;
+    display: inline-block;
+    min-width: 44px;
+    z-index: 3;
+  }
+  .wishlist-home {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-mid) 0 0;
+  }
+  .home1 {
+    position: relative;
+    display: inline-block;
+    min-width: 34px;
+    z-index: 4;
+  }
+  .wishlist-home1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-mid) 0 0;
+  }
+  .keranjang1 {
+    position: absolute;
+    top: 18px;
+    left: 0;
+    display: inline-block;
+    width: 57px;
+    min-width: 57px;
+    z-index: 3;
+  }
+  .shopping-cart-icon1 {
+    position: absolute;
+    top: 0;
+    left: 17px;
+    width: 21px;
+    height: 21px;
+    object-fit: contain;
+    z-index: 4;
+  }
+  .keranjang-parent {
+    height: 33px;
+    width: 57px;
+    position: relative;
+  }
+  .bottom-navigation {
+    flex: 1;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: var(--color-dimgray-100);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 7px 32px 0 var(--padding-36xl);
+    box-sizing: border-box;
+    max-width: 100%;
+    gap: var(--gap-xl);
+    z-index: 2;
+  }
+  .heart-straight-icon1,
+  .home-door-icon1 {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    margin: 0 !important;
+    top: 7px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 3;
+  }
+  .heart-straight-icon1 {
+    left: 67px;
+  }
+  .home-door-icon1 {
+    right: 165px;
+  }
+  .homenotification,
+  .navigation {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: var(--font-size-xs);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  .navigation {
+    align-self: stretch;
+    flex-direction: row;
+    position: sticky;
+    top: 0;
+    z-index: 99;
+    max-width: 100%;
+  }
+  .homenotification {
+    width: 100%;
+    position: relative;
+    background-color: #e5e5e5;
+    overflow: hidden;
+    flex-direction: column;
+    gap: 341px;
+    line-height: normal;
+    letter-spacing: normal;
+  }
